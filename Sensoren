@@ -1,4 +1,13 @@
-senors = {
-  MQ-4: methan
+Sensoren = {
+  MQ-2: LPG, Methan, Butan, "Rauch"
+  MQ-3: Alkohol, Ethanol, "Rauch"
+  MQ-4: Methan, Erdgas
+  MQ-5: Natural Gas, LPG
+  MQ-6: LPG Butan
+  MQ-7: Kohlenstoffmonoxid
+  MQ-8: Wasserstoff
+  MQ-9: Kohlenstoffmonoxid, flammbare Gase
+  MQ-135: Benzole, Alkohol, "Rauch" (Luftqualität)
 }
+
 
